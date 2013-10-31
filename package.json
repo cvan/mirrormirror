@@ -1,0 +1,17 @@
+{
+  "name": "mirror",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-restify-swagger": "*",
+    "node-restify-validation": "*",
+    "restify": "*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cvan/mirrormirror.git"
+  }
+}
