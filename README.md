@@ -5,6 +5,7 @@ Send `console.log` logs to a simple server.
 
 Installation
 ------------
+* `npm install`
 * `nodemon app.js`
 
 
